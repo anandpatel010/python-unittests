@@ -3,5 +3,5 @@ Python Scripts with their respective unit test
 
 Verify the test using:
 ```
-python -m unittest TestCalculator.py
+python3 -m unittest TestCalculator.py
 ```
